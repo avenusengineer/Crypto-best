@@ -69,18 +69,18 @@ _Decentralized peer-to-peer currencies._
 
 <details><summary>Show 46 hidden projects...</summary>
 
-- <b><a href="https://github.com/bitcoin">BTC - Bitcoin</a></b> (🥇8 · 📉) - Cryptocurrency and worldwide payment system. It is the first decentralized..
+- <b><a href="https://github.com/bitcoin">BTC - Bitcoin</a></b> (🥇8) - Cryptocurrency and worldwide payment system. It is the first decentralized..
 - <b><a href="https://github.com/algorand">ALGO - Algorand</a></b> (🥇7) - Algorand removes the technical barriers that for years undermined mainstream..
-- <b><a href="https://github.com/stellar">XLM - Stellar</a></b> (🥇7) - Open platform for building financial products that connect people everywhere...
 - <b><a href="https://github.com/ripple">XRP - XRP</a></b> (🥇6) - Ripple (XRP) is one of the fastest and most scalable digital asset, enabling real-time..
-- <b><a href="https://github.com/cosmos">ATOM - Cosmos</a></b> (🥇6 · 📉) - Decentralized network of independent parallel blockchains, each powered by..
+- <b><a href="https://github.com/cosmos">ATOM - Cosmos</a></b> (🥇6) - Decentralized network of independent parallel blockchains, each powered by BFT..
+- <b><a href="https://github.com/stellar">XLM - Stellar</a></b> (🥇6 · 📉) - Open platform for building financial products that connect people everywhere...
 - <b><a href="https://github.com/celo-org">CELO - Celo</a></b> (🥇6) - A platform for fast, secure, stable digital payments to any mobile number at a..
-- <b><a href="https://github.com/dashpay">DASH - Dash</a></b> (🥈4) - The project was initially released under the name XCoin (linking the identifier XCO..
+- <b><a href="https://github.com/dashpay">DASH - Dash</a></b> (🥈5) - The project was initially released under the name XCoin (linking the identifier XCO..
 - <b><a href="https://github.com/steemit">STEEM - Steem</a></b> (🥈4) - A new way for publishers to monetize their online content and community, based on..
-- <b><a href="https://github.com/aionnetwork">AION - Aion</a></b> (🥈3) - Digital asset of The Open Application Network. Aion is used to secure and access The..
 - <b><a href="https://github.com/theQRL">QRL - Quantum Resistant Ledger</a></b> (🥈3) - The Quantum Resistant Ledger (QRL) is a post-quantum secure..
-- <b><a href="https://github.com/litecoin-project">LTC - Litecoin</a></b> (🥈2) - Peer-to-peer Internet currency that enables instant, near-zero cost payments to..
 - <b><a href="https://github.com/nanocurrency">XNO - Nano</a></b> (🥈2) - Nano, a low-latency cryptocurrency built on an innovative block-lattice data..
+- <b><a href="https://github.com/aionnetwork">AION - Aion</a></b> (🥈2) - Digital asset of The Open Application Network. Aion is used to secure and access The..
+- <b><a href="https://github.com/litecoin-project">LTC - Litecoin</a></b> (🥈1) - Peer-to-peer Internet currency that enables instant, near-zero cost payments to..
 - <b><a href="https://github.com/XDagger">XDAG - Dagger</a></b> (🥈1) - Novel application of Directed Acyclic Graph (DAG) technology that solves the..
 - <b><a href="https://github.com/RavenProject">RVN - Ravencoin</a></b> (🥈1) - Digital peer to peer network that aims to implement a use case specific..
 - <b><a href="https://github.com/BitcoinHEX">HEX - HEX</a></b> (🥈1) - ERC20 token designed and launched by Richard Heart on 2 December 2019 on the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
@@ -124,7 +124,7 @@ _Decentralized peer-to-peer currencies._
 
 _Blockchains that host smart contracts or decentralized applications._
 
-<details><summary><b><a href="https://github.com/ethereum">ETH - Ethereum</a></b> (🥇12 · 📉) - Decentralized platform for applications. Applications build on it can use..</summary>
+<details><summary><b><a href="https://github.com/ethereum">ETH - Ethereum</a></b> (🥇12) - Decentralized platform for applications. Applications build on it can use smart..</summary>
 
 
 ---
@@ -138,31 +138,31 @@ _Blockchains that host smart contracts or decentralized applications._
 <details><summary>Show 65 hidden projects...</summary>
 
 - <b><a href="https://github.com/near">NEAR - Near</a></b> (🥇8) - Sharded, developer-friendly, proof-of-stake public blockchain, built by a world-..
-- <b><a href="https://github.com/solana-labs">SOL - Solana</a></b> (🥇8 · 📉) - Public blockchain. It is open-source and decentralised, and achieves consensus..
-- <b><a href="https://github.com/paritytech">DOT - Polkadot</a></b> (🥇7 · 📉) - Network protocol that allows arbitrary datanot just tokensto be transferred..
-- <b><a href="https://github.com/eosio">EOS - EOS</a></b> (🥇7) - Cryptocurrency token and blockchain that operates as a smart contract platform for the..
+- <b><a href="https://github.com/solana-labs">SOL - Solana</a></b> (🥇8) - Public blockchain. It is open-source and decentralised, and achieves consensus..
+- <b><a href="https://github.com/paritytech">DOT - Polkadot</a></b> (🥇8) - Network protocol that allows arbitrary datanot just tokensto be transferred..
+- <b><a href="https://github.com/tronprotocol">TRX - TRON</a></b> (🥇7) - TRON: Decentralize the Web TRON is dedicated to building the infrastructure for a..
 - <b><a href="https://github.com/Chia-Network">XCH - Chia</a></b> (🥇7) - Founded by Bram Cohen, the inventor of the BitTorrent network, Chia Network is..
-- <b><a href="https://github.com/ava-labs">AVAX - Avalanche</a></b> (🥇6) - Open-source platform for launching decentralized finance applications.. <code><img src="https://git.io/J9cOb" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/tronprotocol">TRX - TRON</a></b> (🥇6) - TRON: Decentralize the Web TRON is dedicated to building the infrastructure for a..
+- <b><a href="https://github.com/eosio">EOS - EOS</a></b> (🥇6 · 📉) - Cryptocurrency token and blockchain that operates as a smart contract platform for..
 - <b><a href="https://github.com/dfinity">ICP - Internet Computer</a></b> (🥇6) - Worlds first blockchain that is capable of running at web speed at..
 - <b><a href="https://github.com/neo-project">NEO - NEO</a></b> (🥈5) - Non-profit community-based blockchain project that utilizes blockchain technology and..
+- <b><a href="https://github.com/ava-labs">AVAX - Avalanche</a></b> (🥈5) - Open-source platform for launching decentralized finance applications.. <code><img src="https://git.io/J9cOb" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/maticnetwork">MATIC - Polygon</a></b> (🥈5) - Matic Network brings massive scale to Ethereum using an adapted version of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/kadena-io">KDA - Kadena</a></b> (🥈5) - Braided, parallelized Proof Of Work consensus mechanism that improves throughput..
 - <b><a href="https://github.com/Zilliqa">ZIL - Zilliqa</a></b> (🥈5) - Zilliqa will be the worlds first high-throughput public blockchain platform -..
 - <b><a href="https://github.com/PureStake">MOVR - Moonriver</a></b> (🥈5) - Fully Ethereum-compatible smart contract parachain on Kusama. Due to this..
+- <b><a href="https://github.com/LiskHQ">LSK - Lisk</a></b> (🥈5) - Lisk makes it easy for developers to build and deploy blockchain applications in..
 - <b><a href="https://github.com/icon-project">ICX - ICON</a></b> (🥈4) - ICON wants to be one of the largest blockchain networks in the world. ICON will boast..
 - <b><a href="https://github.com/ElrondNetwork">EGLD - Elrond</a></b> (🥈4) - Technology ecosystem for the new internet. Its smart contracts execution platform..
-- <b><a href="https://github.com/omgnetwork">OMG - OMG Network</a></b> (🥈4) - Scaling solution for finance on Ethereum, enabling transparent, peer-.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/kadena-io">KDA - Kadena</a></b> (🥈4) - Braided, parallelized Proof Of Work consensus mechanism that improves throughput..
 - <b><a href="https://github.com/ontio">ONT - Ontology</a></b> (🥈4) - New high-performance public blockchain project & a distributed trust..
 - <b><a href="https://github.com/casper-ecosystem">CSPR - Casper Network</a></b> (🥈4) - First live proof-of-stake blockchain built off the Casper CBC..
-- <b><a href="https://github.com/LiskHQ">LSK - Lisk</a></b> (🥈4) - Lisk makes it easy for developers to build and deploy blockchain applications in..
 - <b><a href="https://github.com/Conflux-Chain">CFX - Conflux</a></b> (🥈4) - Open protocol for a new world of DApps, finance, and Web 3.0. As a fast and..
+- <b><a href="https://github.com/MainframeHQ">MFT - Hifi Finance</a></b> (🥈4) - Platform for decentralized applications. Resistant to censorship,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/firmachain">FCT - Factom</a></b> (🥈4) - A General Purpose Data Layer for the Blockchain.
 - <b><a href="https://github.com/poanetwork">POA - POA Network</a></b> (🥈4) - An open network based on Ethereum protocol with Proof of Authority consensus..
 - <b><a href="https://github.com/input-output-hk">ADA - Cardano</a></b> (🥈3) - Token on a distributed computing platform that runs smart contracts,..
-- <b><a href="https://github.com/MainframeHQ">MFT - Hifi Finance</a></b> (🥈3) - Platform for decentralized applications. Resistant to censorship,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/omgnetwork">OMG - OMG Network</a></b> (🥈3) - Scaling solution for finance on Ethereum, enabling transparent, peer-.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/byteball">GBYTE - Obyte</a></b> (🥈3) - Launched on Dec 25, 2016, Obyte is a distributed ledger based on directed.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/nebulasio">NAS - Nebulas</a></b> (🥈3) - Decentralized platform which provides a search framework for all.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/firmachain">FCT - Factom</a></b> (🥈3) - A General Purpose Data Layer for the Blockchain.
 - <b><a href="https://github.com/signum-network">SIGNA - Signum</a></b> (🥈3) - Burst was officially introduced on the 10th of August 2014 with the goal of.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/lamden">TAU - Lamden</a></b> (🥈3) - The token at the heart of the Lamden blockchain ecosystem is the Tau token... <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/ethereumclassic">ETC - Ethereum Classic</a></b> (🥉2) - Open source distributed computing platform based on blockchain that..
@@ -229,39 +229,39 @@ _Financial services that are built on top of distributed networks with no centra
 - <b><a href="https://github.com/terra-money">LUNA - Terra</a></b> (🥇6) - A stable foundation for the future of decentralized finance.
 - <b><a href="https://github.com/Synthetixio">SNX - Synthetix Network Token</a></b> (🥇6) - Synthetix Network Token will be a decentralised payment.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/aave">AAVE - Aave</a></b> (🥇5) - Decentralized Lending on Ethereum Network - Lending Ethereum. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/makerdao">MKR - Maker</a></b> (🥇5) - Utility token, governance token and recapitalization resource of the Maker.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/UMAprotocol">UMA - UMA</a></b> (🥇5) - Decentralized financial contracts platform built to enable Universal Market Access. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/Anchor-Protocol">ANC - Anchor Protocol</a></b> (🥇5) - Unique decentralized peer to peer internet cryptocurrency that.. <code><img src="https://git.io/J9cOg" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/Rari-Capital">RGT - Rari Governance Token</a></b> (🥇5) - The Rari Governance Token is the native token behind Rari.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/RequestNetwork">REQ - Request</a></b> (🥇5) - A decentralized network built on top of Ethereum, which allows anyone,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/DeFiCh">DFI - Amun DeFi Index</a></b> (🥇5) - DeFi Blockchain - bringing DeFi to Bitcoin. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/numerai">NMR - Numeraire</a></b> (🥇4) - Numeraire: A Cryptographic Token for Coordinating Machine Intelligence and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/compound-finance">COMP - Compound</a></b> (🥇4) - Created by the Compound Finance Team, Compound Governance Token (COMP) or.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/makerdao">MKR - Maker</a></b> (🥇4) - Utility token, governance token and recapitalization resource of the Maker.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/UMAprotocol">UMA - UMA</a></b> (🥇4) - Decentralized financial contracts platform built to enable Universal Market Access. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/Anchor-Protocol">ANC - Anchor Protocol</a></b> (🥇4) - Unique decentralized peer to peer internet cryptocurrency that.. <code><img src="https://git.io/J9cOg" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/SetProtocol">DPI - DeFi Pulse Index</a></b> (🥇4) - Capitalization-weighted index that tracks the performance of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/enzymefinance">MLN - Enzyme</a></b> (🥇4) - Private company building the open-source Melon Protocol. The Enzyme is a.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/AugurProject">REP - Augur</a></b> (🥇4) - Decentralized prediction market built on the Ethereum blockchain. It allows you.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/liquity">LQTY - Liquity</a></b> (🥇4) - Token that captures the fee revenue generated by the Liquity Protocol via.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/instadapp">INST - Instadapp</a></b> (🥇4) - On Instadapp, users and developers manage and build their DeFi portfolio.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/mstable">MTA - mStable Governance Token: Meta</a></b> (🥇4) - The Meta token aims to coordinate decentralised.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/yieldprotocol">YIELD - Yield Protocol</a></b> (🥇4) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/numerai">NMR - Numeraire</a></b> (🥈3) - Numeraire: A Cryptographic Token for Coordinating Machine Intelligence and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/brave-intl">BAT - Basic Attention Token</a></b> (🥈2) - Basic Attention Token radically improves the efficiency of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/yearn">YFI - yearn.finance</a></b> (🥈2) - Suite of products in Decentralized Finance (DeFi) that provides.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/DeFiCh">DFI - Amun DeFi Index</a></b> (🥇4) - DeFi Blockchain - bringing DeFi to Bitcoin. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/enzymefinance">MLN - Enzyme</a></b> (🥈3) - Private company building the open-source Melon Protocol. The Enzyme is a.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/liquity">LQTY - Liquity</a></b> (🥈3) - Token that captures the fee revenue generated by the Liquity Protocol via.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/PolymathNetwork">POLY - Polymath</a></b> (🥈2) - The Polymath network connects token investors, KYC providers, smart.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/alchemix-finance">ALCX - Alchemix</a></b> (🥈2) - Governance token for the Alchemix protocol. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/Mirror-Protocol">MIR - Mirror Protocol</a></b> (🥈2) - DeFi protocol powered by smart contracts on the Terra network that.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/bandprotocol">BAND - Band Protocol</a></b> (🥈2) - Data governance framework for Web 3.0 applications. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/beefyfinance">BIFI - Beefy.Finance</a></b> (🥈2) - $BIFI tokens are dividend-eligible revenue shares in Beefy Finance,.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/tellor-io">TRB - Tellor</a></b> (🥈2) - Decentralized Oracle for bringing high value off-chain data onto Ethereum... <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/etherisc">DIP - Etherisc DIP Token</a></b> (🥈2) - Etherisc develops a protocol for decentralized insurance.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/rtoken-project">RDAI</a></b> (🥈2) - No description.
 - <b><a href="https://github.com/WrappedBTC">WBTC - Wrapped Bitcoin</a></b> (🥈1) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/OlympusDAO">OHM - Olympus</a></b> (🥈1) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/amptoken">AMP - Amp</a></b> (🥈1) - Amptoken offers blockchain-enabled Attention Economy solutions, allowing direct.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/brave-intl">BAT - Basic Attention Token</a></b> (🥈1) - Basic Attention Token radically improves the efficiency of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/yearn">YFI - yearn.finance</a></b> (🥈1) - Suite of products in Decentralized Finance (DeFi) that provides.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/nexofinance">NEXO - NEXO</a></b> (🥈1) - Nexo wants to build The Worlds First Instant Crypto Overdrafts. Powered by.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/fraxfinance">FXS - Frax Share</a></b> (🥈1) - Governance and value accrual token of the Frax Stablecoin Protocol. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/NexusMutual">NXM - Nexus Mutual</a></b> (🥈1) - Decentralized insurance protocol built on Ethereum that currently.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/kava-labs">KAVA - Kava</a></b> (🥈1) - Cross-chain DeFi platform offering collateralized loans and stablecoins to users of..
 - <b><a href="https://github.com/SwissBorg">CHSB - SwissBorg</a></b> (🥈1) - Wealthtech offering Swiss-made crypto investment solutions to the world. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/fei-protocol">TRIBE - Tribe</a></b> (🥈1) - Governance token which will allow community members to vote on the future.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/alchemix-finance">ALCX - Alchemix</a></b> (🥈1) - Governance token for the Alchemix protocol. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/phantasma-io">SOUL - Phantasma</a></b> (🥈1) - Phantasma Chain $SOUL has its own blockchain and describe itself as a.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/coti-io">COTI - COTI</a></b> (🥈1) - FinTech company that has developed a base protocol, known as the Trustchain,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/reef-defi">REEF - Reef Finance</a></b> (🥈1) - First cross-chain DeFi operating system built on Polkadot. With a.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
@@ -280,9 +280,9 @@ _Financial services that are built on top of distributed networks with no centra
 - <b><a href="https://github.com/yfii">YFII - DFI.money</a></b> (🥈1) - Fork of YFI project with YIP-8 implementation. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/harvest-finance">FARM - Harvest Finance</a></b> (🥈1) - Harvest automatically farms the highest yields in DeFi. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/bZxNetwork">BZRX - bZx Protocol</a></b> (🥈1) - Financial primitive for shorting, leverage, borrowing, and lending.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/beefyfinance">BIFI - Beefy.Finance</a></b> (🥈1) - $BIFI tokens are dividend-eligible revenue shares in Beefy Finance,.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/BarnBridge">BOND - BarnBridge</a></b> (🥈1) - A Cross Platform Protocol for Tokenizing Risk. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/alpaca-finance">ALPACA - Alpaca Finance</a></b> (🥈1) - First leveraged yield farming protocol on Binance Smart Chain... <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/tellor-io">TRB - Tellor</a></b> (🥈1) - Decentralized Oracle for bringing high value off-chain data onto Ethereum... <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/tornadocash">TORN - Tornado Cash</a></b> (🥈1) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/diadata-org">DIA - DIA</a></b> (🥈1) - DIA (Decentralised Information Asset) is an open-source, data and oracle platform.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/cVault-finance">CORE - cVault.finance</a></b> (🥈1) - Non-inflationary cryptocurrency that is designed to execute.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
@@ -341,25 +341,25 @@ _Tokens associated with centralized or decentralized exchanges._
 - <b><a href="https://github.com/project-serum">SRM - Serum</a></b> (🥇7) - Worlds first completely decentralized derivatives exchange with trustless.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/hashgraph">HBAR - Hedera</a></b> (🥇6) - Decentralized public network for you to make your digital world exactly as it..
 - <b><a href="https://github.com/gnosis">GNO - Gnosis</a></b> (🥇6) - Gnosis builds revolutionary market-driven forecasting technology to let you.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/0xProject">ZRX - 0x</a></b> (🥇5) - An Open Protocol For Decentralized Exchange On The Ethereum Blockchain 0x is an.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/dydxfoundation">DYDX - dYdX</a></b> (🥇5) - With an industry-leading product and a strong trajectory of organic growth, the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/trustwallet">TWT - Trust Wallet Token</a></b> (🥇5) - Trust Wallet Token (TWT) 511 is a utility token that can only.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/blockworks-foundation">MNGO - Mango</a></b> (🥇5) - No description. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/paraswap">PSP - ParaSwap</a></b> (🥇5) - Governance token for ParaSwap with the aim toprovide a decentralized.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/saber-hq">SBR - Saber</a></b> (🥇5) - Cross-chain stablecoin exchange on Solana.
 - <b><a href="https://github.com/orca-so">ORCA - Orca</a></b> (🥇5) - Most user-friendly DEX on Solana. Orca is one of the first general-purpose AMMs.. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/pangolindex">PNG - Pangolin</a></b> (🥇5) - Community-driven decentralized exchange for Avalanche and Ethereum assets.. <code><img src="https://git.io/J9cOb" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/0xProject">ZRX - 0x</a></b> (🥈4) - An Open Protocol For Decentralized Exchange On The Ethereum Blockchain 0x is an.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/renproject">REN - REN</a></b> (🥈4) - A decentralized dark pool for trustless cross-chain atomic trading of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/traderjoe-xyz">JOE - JOE</a></b> (🥈4) - Trader Joe is your one-stop decentralized trading platform on the Avalanche.. <code><img src="https://git.io/J9cOb" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/trustwallet">TWT - Trust Wallet Token</a></b> (🥈4) - Trust Wallet Token (TWT) 511 is a utility token that can only.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/bitshares">BTS - BitShares</a></b> (🥈4) - Public, blockchain-based, real-time financial platform. It provides a..
+- <b><a href="https://github.com/paraswap">PSP - ParaSwap</a></b> (🥈4) - Governance token for ParaSwap with the aim toprovide a decentralized.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/pangolindex">PNG - Pangolin</a></b> (🥈4) - Community-driven decentralized exchange for Avalanche and Ethereum assets.. <code><img src="https://git.io/J9cOb" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/airswap">AST - AirSwap</a></b> (🥈4) - Decentralized, peer-to-peer token trading network built on the Ethereum.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/JustLiquidity">JULD - JulSwap</a></b> (🥈4) - Community Token from JulSwap which allows you to participate in special.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/bancorprotocol">BNT - Bancor Network Token</a></b> (🥈3) - Standard for a new generation of cryptocurrencies called.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/vitelabs">VITE - Vite</a></b> (🥈3) - A Next Generation High-performance Decentralized Application Platform. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/nash-io">NEX - Nash</a></b> (🥈3) - Nash lets you transfer assets securely without trusting third parties. We make..
+- <b><a href="https://github.com/unitedtraders">UTT - United Traders Token</a></b> (🥈3) - United Traders a brand that encompasses several products in.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/guardaco">GETH - Geist ETH</a></b> (🥈3) - No description. <code><img src="https://git.io/J9cOi" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/idexio">IDEX - IDEX</a></b> (🥈2) - Aurora is a collection of Ethereum applications and protocols that together.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/unitedtraders">UTT - United Traders Token</a></b> (🥈2) - United Traders a brand that encompasses several products in.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/1hive">HNY - Honey</a></b> (🥈2) - Governance token issued by 1hive (the team behind Honeyswap.org). Honeyswap is a..
 - <b><a href="https://github.com/binance-chain">BNB - Binance Coin</a></b> (🥈1) - Digital token of the Binance exchange. It is an exchanging token only.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/crypto-org-chain">CRO - Crypto.com Coin</a></b> (🥈1) - Crypto.com Chain will be a privacy preserving payment network that.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
@@ -429,27 +429,27 @@ _Cryptocurrencies inspired by Internet memes._
 - <b><a href="https://github.com/graphprotocol">GRT - The Graph</a></b> (🥇5) - Indexing protocol and global API for organizing blockchain data and making.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/aragon">ANT - Aragon</a></b> (🥇5) - Aragon was born to bring transparency and independent governance to the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/oceanprotocol">OCEAN - Ocean Protocol</a></b> (🥇5) - A Decentralized Data Exchange Protocol to Unlock Data for AI. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/iExecBlockchainComputing">RLC - iExec RLC</a></b> (🥇5) - The First Decentralized Marketplace for Cloud Resources. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/KILTprotocol">KILT - KILT Protocol</a></b> (🥇5) - Open-source blockchain protocol for issuing verifiable, revocable,.. <code><img src="https://git.io/J9c3v" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/handshake-org">HNS - Handshake</a></b> (🥇5) - Decentralized naming and certificate authority.
 - <b><a href="https://github.com/santiment">SAN - Santiment Network Token</a></b> (🥇5) - A Better Way to Trade Crypto-Markets Market Datafeeds,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/snowfork">BTRST - Braintrust</a></b> (🥇5) - First decentralized talent network that connects skilled, vetted.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/liquidapps-io">DAPP - LiquidApps</a></b> (🥇5) - LiquidApps mission is to promote the adoption of decentralized applications..
-- <b><a href="https://github.com/siafoundation">SC - Siacoin</a></b> (🥈4) - First decentralized storage platform secured by blockchain technology. The Sia..
-- <b><a href="https://github.com/livepeer">LPT - Livepeer</a></b> (🥈4) - Open Source Video Infrastructure Services, Built On The Ethereum.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/raiden-network">RDN - Raiden Network Token</a></b> (🥈4) - Off-chain scaling solution, enabling near-instant, low-fee.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/iExecBlockchainComputing">RLC - iExec RLC</a></b> (🥈4) - The First Decentralized Marketplace for Cloud Resources. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/handshake-org">HNS - Handshake</a></b> (🥈4) - Decentralized naming and certificate authority.
+- <b><a href="https://github.com/singnet">AGIX - SingularityNET</a></b> (🥈4) - SingularityNET lets anyone create, share, and monetize AI services.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/docknetwork">DOCK - Dock</a></b> (🥈4) - Special purpose decentralized data exchange protocol. This protocol is intended to..
 - <b><a href="https://github.com/aeternity">AE - Aeternity</a></b> (🥈4) - Ternity team is building a next-level, brand new blockchain technology in.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/cartesi">CTSI - Cartesi</a></b> (🥈3) - What is Cartesi? Ease of Adoption: Developers can work in a familiar.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/liquidapps-io">DAPP - LiquidApps</a></b> (🥈4) - LiquidApps mission is to promote the adoption of decentralized applications..
+- <b><a href="https://github.com/siafoundation">SC - Siacoin</a></b> (🥈3) - First decentralized storage platform secured by blockchain technology. The Sia..
+- <b><a href="https://github.com/livepeer">LPT - Livepeer</a></b> (🥈3) - Open Source Video Infrastructure Services, Built On The Ethereum.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/raiden-network">RDN - Raiden Network Token</a></b> (🥈3) - Off-chain scaling solution, enabling near-instant, low-fee.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/holochain">HOT - Holo</a></b> (🥈3) - Data integrity engine for distributed applications. It uses a validating DHT.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/golemfactory">GLM - Golem</a></b> (🥈3) - Global, open source, decentralized supercomputer that anyone can access. It is.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/radicle-dev">RAD - Radicle</a></b> (🥈3) - Decentralized code collaboration network built on open protocols. It enables.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/nknorg">NKN - NKN</a></b> (🥈3) - NKN (New Kind of Network) is a new project aiming to rebuild the Internet that.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/singnet">AGIX - SingularityNET</a></b> (🥈3) - SingularityNET lets anyone create, share, and monetize AI services.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/provable-things">PNT - pNetwork</a></b> (🥈3) - A Provable, portable, and pegged solution for the DeFi ecosystem. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/daostack">GEN - DAOstack</a></b> (🥈3) - DAOstack powers decentralized companies, funds and markets to make fast and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/buddy-works">BUD - Buddy</a></b> (🥈3) - Thanks to automation, the way developers build, test and deploy apps and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/cartesi">CTSI - Cartesi</a></b> (🥈2) - What is Cartesi? Ease of Adoption: Developers can work in a familiar.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/DimensionDev">MASK - Mask Network</a></b> (🥈2) - Core product of Dimension, which is positioned to become the bridge.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/buddy-works">BUD - Buddy</a></b> (🥈2) - Thanks to automation, the way developers build, test and deploy apps and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/provable-things">PNT - pNetwork</a></b> (🥈2) - A Provable, portable, and pegged solution for the DeFi ecosystem. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/skycoin">SKY - Skycoin</a></b> (🥈1) - Currency for digital bandwidth, backed by the new internet. Fast transactions, no..
 - <b><a href="https://github.com/Fantom-Foundation">FTM - Fantom</a></b> (🥈1) - Worlds first DAG based smart contract platform that solves the issue of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/bittorrent">BTT - BitTorrent</a></b> (🥈1) - BitTorrent (BTT) allows content creators to connect with their audience, earn..
@@ -513,17 +513,17 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 
 - <b><a href="https://github.com/scrtlabs">SCRT - Secret</a></b> (🥇6) - Native coin of the Secret Network, the first blockchain that enables general-..
 - <b><a href="https://github.com/zcash">ZEC - Zcash</a></b> (🥇5) - Decentralized and open-source cryptocurrency that provides strong privacy..
-- <b><a href="https://github.com/keep-network">KEEP - Keep Network</a></b> (🥇5) - A privacy layer for Ethereum. A keep is an off-chain container for.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/ergoplatform">ERG - Ergo</a></b> (🥇5) - ERGOs platform is based on a variety of ideas that complement each other and aim to..
-- <b><a href="https://github.com/BeamMW">BEAM - BEAM</a></b> (🥇5) - Scalable confidential cryptocurrency.
-- <b><a href="https://github.com/hoprnet">HOPR - HOPR</a></b> (🥇5) - HOPR provides essential and compliant network-level metadata privacy for.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/HorizenOfficial">ZEN - Horizen</a></b> (🥈4) - Inclusive ecosystem where everyone is empowered and rewarded for their..
-- <b><a href="https://github.com/nucypher">NU - NuCypher</a></b> (🥈4) - Privacy layer for distributed systems and decentralized applications... <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/dusk-network">DUSK - DUSK Network</a></b> (🥈4) - Open-source and privacy-oriented blockchain based on years of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/grinplusplus">GRIN - Grin</a></b> (🥈3) - Grin empowers anyone to transact or save modern money without the fear of external..
+- <b><a href="https://github.com/nucypher">NU - NuCypher</a></b> (🥇4) - Privacy layer for distributed systems and decentralized applications... <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/keep-network">KEEP - Keep Network</a></b> (🥇4) - A privacy layer for Ethereum. A keep is an off-chain container for.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/dusk-network">DUSK - DUSK Network</a></b> (🥇4) - Open-source and privacy-oriented blockchain based on years of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/ergoplatform">ERG - Ergo</a></b> (🥇4) - ERGOs platform is based on a variety of ideas that complement each other and aim to..
+- <b><a href="https://github.com/BeamMW">BEAM - BEAM</a></b> (🥇4) - Scalable confidential cryptocurrency.
+- <b><a href="https://github.com/hoprnet">HOPR - HOPR</a></b> (🥇4) - HOPR provides essential and compliant network-level metadata privacy for.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/grinplusplus">GRIN - Grin</a></b> (🥇4) - Grin empowers anyone to transact or save modern money without the fear of external..
+- <b><a href="https://github.com/HorizenOfficial">ZEN - Horizen</a></b> (🥈3) - Inclusive ecosystem where everyone is empowered and rewarded for their..
+- <b><a href="https://github.com/mobilecoinfoundation">MOB - MobileCoin</a></b> (🥈3) - No description.
 - <b><a href="https://github.com/decred">DCR - Decred</a></b> (🥈2) - Autonomous digital currency. With a hybrid consensus system, it is built to be a..
 - <b><a href="https://github.com/particl">PART - Particl</a></b> (🥈2) - Open source, decentralized privacy platform. Built for global person to person..
-- <b><a href="https://github.com/mobilecoinfoundation">MOB - MobileCoin</a></b> (🥈2) - No description.
 - <b><a href="https://github.com/monero-project">XMR - Monero</a></b> (🥈1) - Monero is cash for a connected world. Its fast, private, and secure. With Monero,..
 - <b><a href="https://github.com/runonflux">FLUX - Flux</a></b> (🥈1) - Cryptocurrency that holds a central role in the Zel Ecosystem. It gives the..
 - <b><a href="https://github.com/vergecurrency">XVG - Verge</a></b> (🥈1) - Cryptocurrency.
@@ -564,7 +564,7 @@ _Mechanisms used by most decentralized exchanges to facilitate permissionless tr
 
 <details><summary>Show 5 hidden projects...</summary>
 
-- <b><a href="https://github.com/Uniswap">UNI - Uniswap</a></b> (🥇8) - Governance token for Uniswap, an Automated Market Market DEX on the Ethereum.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/Uniswap">UNI - Uniswap</a></b> (🥇7 · 📉) - Governance token for Uniswap, an Automated Market Market DEX on the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/sushiswap">SUSHI - Sushi</a></b> (🥈5) - DeFi protocol that is completely community-driven, serving up delicious.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/pancakeswap">CAKE - PancakeSwap</a></b> (🥈5) - Automated market maker (AMM) that allows two tokens to be exchanged on.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/balancer-labs">BAL - Balancer</a></b> (🥉2) - Non-custodial portfolio manager, liquidity provider, and price sensor The.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
@@ -583,12 +583,12 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 - <b><a href="https://github.com/ensdomains">ENS - Ethereum Name Service</a></b> (🥇7) - The Ethereum Name Service (ENS) is a distributed, open,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/decentraland">MANA - Decentraland</a></b> (🥇6) - Decentraland will be a virtual reality platform powered by the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/onflow">FLOW - Flow</a></b> (🥇6) - Fast, decentralized, and developer-friendly blockchain, designed as the foundation..
-- <b><a href="https://github.com/worldwide-asset-exchange">WAXP - WAX</a></b> (🥇5) - WAX - Worldwide Asset eXchange Its a decentralized platform that enables anyone to..
-- <b><a href="https://github.com/0xcert">ZXC - 0xcert</a></b> (🥇5) - Open source, permission-less protocol for certified non-fungible tokens on.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/planetarium">WNCG - Wrapped NCG</a></b> (🥇5) - Open source, decentralized RPG network powered by the community. As a.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/worldwide-asset-exchange">WAXP - WAX</a></b> (🥈4) - WAX - Worldwide Asset eXchange Its a decentralized platform that enables anyone to..
 - <b><a href="https://github.com/AudiusProject">AUDIO - Audius</a></b> (🥈4) - Native platform token of the Audius streaming protocol. AUDIO is staked for.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/fetchai">FET - Fetch.ai</a></b> (🥈4) - Next-generation protocol built with a ready-to-go Useful Proof of Work.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/rmrk-team">RMRK - RMRK</a></b> (🥈4) - Most advanced nft system in the world, adding eternal liquidity and multi chain..
-- <b><a href="https://github.com/planetarium">WNCG - Wrapped NCG</a></b> (🥈4) - Open source, decentralized RPG network powered by the community. As a.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/0xcert">ZXC - 0xcert</a></b> (🥈4) - Open source, permission-less protocol for certified non-fungible tokens on.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/fetchai">FET - Fetch.ai</a></b> (🥈3) - Next-generation protocol built with a ready-to-go Useful Proof of Work.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/originprotocol">OGN - Origin Protocol</a></b> (🥈2) - Enabling true peer-to-peer commerce. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/bepronetwork">FEVR - RealFevr</a></b> (🥈2) - Portuguese Fantasy Leagues startup RealFevr, the official partner of Liga.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/enjin">ENJ - Enjin Coin</a></b> (🥈1) - Enjin is introducing Enjin Coin (ENJ), a new ERC20 token that gives.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
@@ -633,7 +633,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 - <b><a href="https://github.com/vechain">VET - VeChain</a></b> (🥇5) - Worlds leading blockchain platform offering Blockchain-as-a-Service to..
 - <b><a href="https://github.com/iotaledger">MIOTA - IOTA</a></b> (🥇5) - Open-source distributed data logging technology, which aims to securely enable the..
-- <b><a href="https://github.com/streamr-dev">XDATA - Streamr XDATA</a></b> (🥈4) - Unstoppable real-time data for unstoppable apps. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/streamr-dev">XDATA - Streamr XDATA</a></b> (🥇5) - Unstoppable real-time data for unstoppable apps. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/helium">HNT - Helium</a></b> (🥈1) - Powered by the Helium Blockchain, The Peoples Network represents a paradigm shift..
 - <b><a href="https://github.com/NodleCode">NODL</a></b> (🥈1) - No description.
 - <b><a href="https://github.com/iotexproject">IOTX - IoTeX</a></b> (🥈1) - IOTX will be a Decentralized Network for Internet of Things Powered by a Privacy-..
@@ -657,47 +657,47 @@ _Blockchains designed to facilitate the exchange of data and payment information
 <details><summary>Show 237 hidden projects...</summary>
 
 - <b><a href="https://github.com/JoinColony">CLNY - MarsColony</a></b> (🥇7) - Hybrid token that contains attributes of government and utility tokens... <code><img src="https://git.io/J9cOK" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/nervosnetwork">CKB - Nervos Network</a></b> (🥇7 · 📈) - Nervos CKByte (Common Knowledge Byte) is the native token of the..
 - <b><a href="https://github.com/AleoHQ">ALEO</a></b> (🥇6) - No description.
+- <b><a href="https://github.com/AcalaNetwork">KAR - Karura</a></b> (🥇6) - All-in-one DeFi hub of Kusama. Founded by the Acala Foundation, Karura is a..
 - <b><a href="https://github.com/nimiq">NIM - Nimiq</a></b> (🥇6) - Blockchain designed for simplicity. Nimiq aims to be the best performing and..
+- <b><a href="https://github.com/unlock-protocol">UDT - Unlock Protocol</a></b> (🥇5) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/klaytn">KLAY - Klaytn</a></b> (🥇5) - Public blockchain platform of the leading South Korean mobile platform, Kakao...
-- <b><a href="https://github.com/nervosnetwork">CKB - Nervos Network</a></b> (🥇5) - Nervos CKByte (Common Knowledge Byte) is the native token of the Nervos..
+- <b><a href="https://github.com/MinaProtocol">MINA - Mina Protocol</a></b> (🥇5) - The worlds lightest blockchain, powered by participants. Mina is..
 - <b><a href="https://github.com/bcnmy">BICO - Biconomy</a></b> (🥇5) - Biconomy provides plug-n-play APIs to make web3.0 user-friendly &.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/ethersphere">BZZ - Swarm</a></b> (🥇5) - System of peer-to-peer networked nodes that create a decentralised storage and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/AcalaNetwork">KAR - Karura</a></b> (🥇5) - All-in-one DeFi hub of Kusama. Founded by the Acala Foundation, Karura is a..
 - <b><a href="https://github.com/tierion">TNT - Tierion</a></b> (🥇5) - Use the blockchain as a global platform to verify any data, file, or.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/symbol">XYM - Symbol</a></b> (🥇5) - Trusted and secure enterprise blockchain that smooths business friction,..
-- <b><a href="https://github.com/unlock-protocol">UDT - Unlock Protocol</a></b> (🥈4) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/MinaProtocol">MINA - Mina Protocol</a></b> (🥈4) - The worlds lightest blockchain, powered by participants. Mina is..
-- <b><a href="https://github.com/tonlabs">EVER - Everscale</a></b> (🥈4) - Fast, secure and scalable network with near-zero fees, which can process up..
+- <b><a href="https://github.com/dadi">DADI - Edge</a></b> (🥇5) - DADI decentralized web services: a new era of cloud computing services, powered by..
 - <b><a href="https://github.com/energywebfoundation">EWT - Energy Web Token</a></b> (🥈4) - Native token of the Energy Web Chain, a public, Proof-of-Authority..
-- <b><a href="https://github.com/kleros">PNK - Kleros</a></b> (🥈4) - Blockchain Dispute Resolution Layer that provides fast, secure and affordable.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/astroport-fi">ASTRO - Astroport</a></b> (🥈4) - Next generation AMM on Terra chain. It offers multiple pool types.. <code><img src="https://git.io/J9cOg" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/witnet">WIT - Witnet</a></b> (🥈4) - WITchain Provide Digital Token Development and Value Management Service for..
-- <b><a href="https://github.com/cardstack">CARD - Cardstack</a></b> (🥈4) - The experience layer of the decentralized internet. Cardstack is an.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/dev-protocol">DEV - Dev Protocol</a></b> (🥈4) - Well decentralized network of Masternodes without superfluous control.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/effectai">EFX - Effect Network</a></b> (🥈4) - Effect Network is ought to be a decentralized platform for Artificial..
 - <b><a href="https://github.com/zeriontech">TBX - Tokenbox</a></b> (🥈4) - Utility token that providing an access to the platforms services. A fund.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/dadi">DADI - Edge</a></b> (🥈4) - DADI decentralized web services: a new era of cloud computing services, powered by..
-- <b><a href="https://github.com/astroport-fi">ASTRO - Astroport</a></b> (🥈3) - Next generation AMM on Terra chain. It offers multiple pool types.. <code><img src="https://git.io/J9cOg" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/tonlabs">EVER - Everscale</a></b> (🥈3) - Fast, secure and scalable network with near-zero fees, which can process up..
+- <b><a href="https://github.com/kleros">PNK - Kleros</a></b> (🥈3) - Blockchain Dispute Resolution Layer that provides fast, secure and affordable.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/cardstack">CARD - Cardstack</a></b> (🥈3) - The experience layer of the decentralized internet. Cardstack is an.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/iov-one">IOV - Starname</a></b> (🥈3) - Vertical application of blockchain technology in the field of automotive social..
 - <b><a href="https://github.com/giveth">GIV - Giveth</a></b> (🥈3) - Community focused on Building the Future of Giving using blockchain.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/Neufund">NEU - Neumark</a></b> (🥈3) - Neumarks (NEU) are Neufunds protocol tokens which participants earn by.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/everitoken">EVT - Elevation Token</a></b> (🥈3) - Worlds first token-customized public chain for token economy and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/exchangeunion">XUC - Exchange Union</a></b> (🥈3) - Open source project, developing the XU node software. XU nodes are.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/chain">CHN - Chain</a></b> (🥈2) - Cloud blockchain infrastructure that enables organizations to build better.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/quantnetwork">QNT - Quant</a></b> (🥈2) - Overledger - The first Blockchain operating system that connects the worlds.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/celer-network">CELR - Celer Network</a></b> (🥈2) - Celer Network Bring Internet Scale to Every Blockchain. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/DistributedCollective">SOV - Sovryn</a></b> (🥈2) - X16r GPU minable crypto with masternodes. Premine: 850 000 SOV. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/manifoldfinance">FOLD - Manifold Finance</a></b> (🥈2) - Manifold Finance provides solutions encompassing the middleware.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/dapphub">CHAI - Chai</a></b> (🥈2) - Accrue interest on your Dai by turning it into Chai. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/jbx-protocol">JBX - JBOX</a></b> (🥈2) - Our vision is to be the company that decentralizes the video market using Block.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/SelfKeyFoundation">KEY - SelfKey</a></b> (🥈2) - Blockchain based identity network that allows individuals and companies to.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/bismuthfoundation">BIS - Bismuth</a></b> (🥈2) - New blockchain protocol and a platform at the same time. It has an innovative..
 - <b><a href="https://github.com/rsksmart">RBTC - Rootstock RSK</a></b> (🥈2) - First open-source smart contract platform with a 2-way peg to Bitcoin..
 - <b><a href="https://github.com/octopus-network">OCT - Octopus Network</a></b> (🥈2) - Oraclechain will be the worlds first face block chain ecological.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/armors">ARM - Armours</a></b> (🥈2) - As the worlds leading blockchain security laboratory, Armors solutions.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/aurora-is-near">AURORA - Aurora</a></b> (🥈2) - EVM built on the NEAR Protocol, delivering a turn-key solution for.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/exchangeunion">XUC - Exchange Union</a></b> (🥈2) - Open source project, developing the XU node software. XU nodes are.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/subquery">SQT - Squidgame Token</a></b> (🥈2) - Online survival simulation game, where users can participate as.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/windingtree">LIF - Lif</a></b> (🥈2) - Blockchain-based distribution platform for the travel industry. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/joystream">JOYSTREAM</a></b> (🥈2) - No description.
 - <b><a href="https://github.com/spacemeshos">SMH</a></b> (🥉1) - No description.
 - <b><a href="https://github.com/incognitochain">PRV - PrivacySwap</a></b> (🥉1) - PrivacySwaps intention is to amass a community of hodlers, traders,.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/quantnetwork">QNT - Quant</a></b> (🥉1) - Overledger - The first Blockchain operating system that connects the worlds.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/bitcoin-sv">BSV - Bitcoin SV</a></b> (🥉1) - New coin splitted of Bitcoin Cash blockchain on 15 November 2018. Four..
 - <b><a href="https://github.com/bitcoin-abc">XEC - eCash</a></b> (🥉1) - Derived from one of the most trusted names in the cryptocurrency space, what was..
 - <b><a href="https://github.com/pokt-network">POKT - Pocket Network</a></b> (🥉1) - Blockchain data platform built for applications that uses cost-..
@@ -727,9 +727,9 @@ _Blockchains designed to facilitate the exchange of data and payment information
 - <b><a href="https://github.com/e-money">NGM - e-Money</a></b> (🥉1) - E-Money stablecoins are a further stage in the development of collateralized.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/capsule-corp-ternoa">CAPS - Ternoa</a></b> (🥉1) - Memories are an essential part of who we are. If memory plays an essential.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/polkafoundry">PKF - PolkaFoundry</a></b> (🥉1) - What Is PolkaFoundry (PKF)? PolkaFoundry is a platform for building.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/manifoldfinance">FOLD - Manifold Finance</a></b> (🥉1) - Manifold Finance provides solutions encompassing the middleware.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/Revolution-Populi">RVP - Revolution Populi</a></b> (🥉1) - A decentralized user-controlled layer 1 blockchain database.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/likecoin">LIKE - LikeCoin</a></b> (🥉1) - LikeCoin aims to reinvent the Like by realigning creativity and reward. We..
-- <b><a href="https://github.com/SelfKeyFoundation">KEY - SelfKey</a></b> (🥉1) - Blockchain based identity network that allows individuals and companies to.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/galacticcouncil">XHDX - HydraDX</a></b> (🥉1) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/AngleProtocol">ANGLE - ANGLE</a></b> (🥉1) - Governance token of the Angle Protocol. The Angle Protocol is a.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/BNBPay">BPAY - BNBPay</a></b> (🥉1) - Decentralised scalable crypto payment gateway tailored for merchant.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
@@ -759,7 +759,6 @@ _Blockchains designed to facilitate the exchange of data and payment information
 - <b><a href="https://github.com/MASQ-Project">MASQ - MASQ</a></b> (🥉1) - Foundation for the internet of the future. MASQ is much more than just another.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/VeriBlock">VBK - VeriBlock</a></b> (🥉1) - VeriBlock.
 - <b><a href="https://github.com/emercoin">EMC - EmerCoin</a></b> (🥉1) - Emercoin - Distributed blockchain services for business and personal use.
-- <b><a href="https://github.com/bismuthfoundation">BIS - Bismuth</a></b> (🥉1) - New blockchain protocol and a platform at the same time. It has an innovative..
 - <b><a href="https://github.com/CoinBlack">BLK - BlackCoin</a></b> (🥉1) - Peer-to-peer cryptocurrency, which uses only proof-of-stake consensus mechanism.
 - <b><a href="https://github.com/essentiaone">ESS - Essentia</a></b> (🥉1) - Masternoded multi-chained set of protocols connecting centralized and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/DOSNetwork">DOS - DOS Network</a></b> (🥉1) - A Decentralized Oracle Service Network to Boost Blockchain Usability.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
@@ -769,6 +768,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 - <b><a href="https://github.com/commerceblock">WDGLD - Wrapped-DGLD</a></b> (🥉1) - First ERC-20 token pegged one-to-one with DGLD, the worlds most.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/DAVFoundation">DAV - DAV Network</a></b> (🥉1) - Open source Software platform that allows anyone to buy or sell.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/okcashpro">OK - OKCash</a></b> (🥉1) - Hybrid cryptocurrency that started with PoW mining on November 2014 to then turn..
+- <b><a href="https://github.com/dapphub">CHAI - Chai</a></b> (🥉1) - Accrue interest on your Dai by turning it into Chai. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/Aptoide">APPC - AppCoins</a></b> (🥉1) - AppCoin tokens (APPC Tokens) are ERC-20 compatible tokens distributed on.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/marscoin">MARS - Mars</a></b> (🥉1) - The protocol consists of pBTC35A tokens and MARS tokens. Each pBTC35A token.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/2key">2KEY - 2key.network</a></b> (🥉1) - REAL technology. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
@@ -785,6 +785,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 - <b><a href="https://github.com/martexcoin">MXT - MarteXcoin</a></b> (🥉1) - No description.
 - <b><a href="https://github.com/limxtec">BTDX - Bitcloud</a></b> (🥉1) - BITCLOUD - DIGITAL CURRENCY.
 - <b><a href="https://github.com/lbtcio">LBTC - Lightning Bitcoin</a></b> (🥉1) - Fully decentralized Internet-of-value protocol for global payments...
+- <b><a href="https://github.com/jbx-protocol">JBX - JBOX</a></b> (🥉1) - Our vision is to be the company that decentralizes the video market using Block.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/newton-blockchain">TONCOIN - The Open Network</a></b> (🥉1) - The next gen network to unite all blockchains and the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/automata-network">ATA - Automata</a></b> (🥉1) - Decentralized service protocol that provides middleware-like traceless.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/bloxapp">SSV - SSV Network</a></b> (🥉1) - SSV promotes decentralization, security, and liveness across the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
@@ -857,7 +858,6 @@ _Blockchains designed to facilitate the exchange of data and payment information
 - <b><a href="https://github.com/simplechain-org">SIMPLE - SIMPLE</a></b> (🥉1) - SimpleChain: Simple to use blockchain, chain up the world, is digital reform..
 - <b><a href="https://github.com/bumoproject">BU - BUMO</a></b> (🥉1) - Next-generation commercial-grade public Blockchain for ubiquitous and trusted value..
 - <b><a href="https://github.com/bityuan">BTY</a></b> (🥉1) - No description.
-- <b><a href="https://github.com/windingtree">LIF - Lif</a></b> (🥉1) - Blockchain-based distribution platform for the travel industry. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/zenprotocol">ZP - Zen Protocol</a></b> (🥉1) - New type of blockchain, written from scratch in F#, with a contracting..
 - <b><a href="https://github.com/jsecoin">JSE - JSECOIN</a></b> (🥉1) - Every other industry across the globe is moving towards greener solutions that..
 - <b><a href="https://github.com/mesg-foundation">MESG - MESG</a></b> (🥉1) - Decentralized building platform for apps and businesses where developers can build..
